@@ -44,6 +44,8 @@ Tujuan utama dari tugas ini adalah untuk melatih pemahaman dan penerapan konsep 
 <div align="center">
   <img width="400" alt="Cuplikan layar 2026-03-13 192705" src="https://github.com/user-attachments/assets/bc140cca-7b34-4869-acd8-387c50b24a14" />
 
+  <br>
+
   <img width="400" alt="Cuplikan layar 2026-03-13 192658" src="https://github.com/user-attachments/assets/77102dfd-9ab7-438f-a0a3-3ce929a8c18f" />
 
   <p><i>Tampilan Dialog Form Input Data</i></p>
